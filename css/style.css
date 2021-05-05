@@ -1,0 +1,36 @@
+.jumbotron {
+  margin: 0;
+}
+
+footer.jumbotron {
+  padding: 20px;
+}
+
+.custom-file-input:lang(en) ~ .custom-file-label::after {
+  content: "Procurar";
+}
+
+#checkout #carrinho {
+  padding-bottom: 30px;
+}
+#checkout #carrinho #carrino-interno {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 0px;
+}
+
+#produtos #produto-interno {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 0px;
+}
+
+#product-1 #cabecalho-1 {
+  background: inherit;
+  background-color: inherit;
+}
+
+#product-2 #cabecalho-2 {
+  background: inherit;
+  background-color: inherit;
+}/*# sourceMappingURL=style.css.map */
